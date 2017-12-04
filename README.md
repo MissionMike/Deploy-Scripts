@@ -5,11 +5,17 @@ Shell script templates for automating recurring push/pull/syncing tasks
 
 Fill in the credentials in variables provided, comment/uncomment options, and run.
 
+Arguments:
+
+all - Files and Database
+db - Database only
+files - Files only
+
 Sample usage:
 
 `sh pull.sh all`
 
-or
+`sh deploy.sh db`
 
 `sh deploy.sh files`
 
