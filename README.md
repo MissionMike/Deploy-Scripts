@@ -5,11 +5,13 @@ Shell script templates for automating recurring push/pull/syncing tasks
 
 Fill in the credentials in variables provided, comment/uncomment options, and run.
 
-Arguments:
+### Arguments:
 
-all - Files and Database
-db - Database only
-files - Files only
+`all` Files and Database
+
+`db` Database only
+
+`files` Files only
 
 Sample usage:
 
