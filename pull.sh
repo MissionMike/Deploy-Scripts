@@ -11,7 +11,7 @@ PRODUCTION[MYSQL_HOST]="localhost"
 PRODUCTION[MYSQL_DB]=""
 PRODUCTION[MYSQL_USER]=""
 PRODUCTION[MYSQL_PASS]=""
-
+ 
 
 # Staging (destination in pull.sh)
 declare -A STAGING
